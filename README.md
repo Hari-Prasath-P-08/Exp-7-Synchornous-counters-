@@ -1,8 +1,3 @@
-```
-Name : Rajalakshmi R
-Reg no : 23013958
-```
-
 # Exp-6 Synchornous counters up counter and down counter 
 
 ## AIM: 
